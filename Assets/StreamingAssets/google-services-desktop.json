@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930652623179",
+    "project_id": "wild-wind-a0360",
+    "storage_bucket": "wild-wind-a0360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930652623179:android:50468f17e9611c10c918ce",
+        "android_client_info": {
+          "package_name": "com.Kourosh.WildWind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930652623179-ucfuf5hcuikqcvkb0bd15imlrrmqifcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Kourosh.WildWind",
+            "certificate_hash": "2664291da1ab254f54bcc06489b343fdb040d7c3"
+          }
+        },
+        {
+          "client_id": "930652623179-0os2h0pnej8699i3usg5imm5ro8jq8j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSonIxN9jDrsX0jyNHznoMCLzl5M8a7Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930652623179-0os2h0pnej8699i3usg5imm5ro8jq8j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

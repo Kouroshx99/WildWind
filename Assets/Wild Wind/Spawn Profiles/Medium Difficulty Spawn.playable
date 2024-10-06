@@ -1,0 +1,1265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9217584346343651177
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 100
+    - gameObject: {fileID: 9084896660116762878, guid: d817fc9b0e14be74c8dafa66290e3316, type: 3}
+      chance: 20
+    - gameObject: {fileID: 8928692175230465876, guid: ed70a3e33186d494c8ac26a1a298bb56, type: 3}
+      chance: 0
+    - gameObject: {fileID: 2896545382248334303, guid: 8f1a03116fa37d24e9d83087d642ade8, type: 3}
+      chance: 0
+    - gameObject: {fileID: 8047277415103914629, guid: 99cfe1ec27b147c46b9b27e01bfef23c, type: 3}
+      chance: 0
+    maxActiveObjects: 2
+    TimeRange: {x: 1, y: 4}
+--- !u!114 &-9179919023156326016
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b80e255fc79397b41bc697a87b23d8ee, type: 3}
+  m_Name: SpawnControlClip(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnControlBehaviour:
+    maxActiveMissiles: 903
+    maxActivePowerups: 0
+    maxActiveStars: 0
+--- !u!114 &-8659556775832161878
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 8648905410912876425, guid: dc5677875d4dd1e4db4021160460729f, type: 3}
+      chance: 100
+    - gameObject: {fileID: 8648905410912876425, guid: 86ef9de77464dc9419bb81db84800ce0, type: 3}
+      chance: 42
+    - gameObject: {fileID: 4853375499672253821, guid: cecd85947c83bae44a659648e5fd8927, type: 3}
+      chance: 100
+    maxActiveObjects: 2
+    TimeRange: {x: 4, y: 10}
+--- !u!114 &-8001196264149953361
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 60
+    - gameObject: {fileID: 3105841431665740834, guid: bef8946a559195e42b302be0583fdb30, type: 3}
+      chance: 40
+    - gameObject: {fileID: 2851446485835237533, guid: 0aa023b681546b54ca0a49894691baec, type: 3}
+      chance: 0
+    maxActiveObjects: 2
+    TimeRange: {x: 5, y: 8}
+--- !u!114 &-7741843035247714969
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 0
+    - gameObject: {fileID: 9084896660116762878, guid: d817fc9b0e14be74c8dafa66290e3316, type: 3}
+      chance: 0
+    - gameObject: {fileID: 8928692175230465876, guid: ed70a3e33186d494c8ac26a1a298bb56, type: 3}
+      chance: 100
+    - gameObject: {fileID: 2896545382248334303, guid: 8f1a03116fa37d24e9d83087d642ade8, type: 3}
+      chance: 0
+    - gameObject: {fileID: 8047277415103914629, guid: 99cfe1ec27b147c46b9b27e01bfef23c, type: 3}
+      chance: 0
+    maxActiveObjects: 5
+    TimeRange: {x: 0.2, y: 1.5}
+--- !u!114 &-7669643560937168362
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b80e255fc79397b41bc697a87b23d8ee, type: 3}
+  m_Name: SpawnControlClip(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnControlBehaviour:
+    maxActiveMissiles: 2
+    maxActivePowerups: 0
+    maxActiveStars: 3
+--- !u!114 &-6845899235942166165
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 724377231157558717, guid: da29c895720c9014fb00f75609eef33e, type: 3}
+      chance: 100
+    maxActiveObjects: 1
+    TimeRange: {x: 0.5, y: 1}
+--- !u!114 &-6082929839869214928
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 100
+    - gameObject: {fileID: 3105841431665740834, guid: bef8946a559195e42b302be0583fdb30, type: 3}
+      chance: 0
+    - gameObject: {fileID: 2851446485835237533, guid: 0aa023b681546b54ca0a49894691baec, type: 3}
+      chance: 0
+    maxActiveObjects: 1
+    TimeRange: {x: 1, y: 3}
+--- !u!114 &-5859108613693316809
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 30
+    - gameObject: {fileID: 3105841431665740834, guid: bef8946a559195e42b302be0583fdb30, type: 3}
+      chance: 30
+    - gameObject: {fileID: 2851446485835237533, guid: 0aa023b681546b54ca0a49894691baec, type: 3}
+      chance: 40
+    maxActiveObjects: 3
+    TimeRange: {x: 8, y: 16}
+--- !u!114 &-5535549540697802102
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 23
+    - gameObject: {fileID: 9084896660116762878, guid: d817fc9b0e14be74c8dafa66290e3316, type: 3}
+      chance: 68
+    - gameObject: {fileID: 8928692175230465876, guid: ed70a3e33186d494c8ac26a1a298bb56, type: 3}
+      chance: 0
+    - gameObject: {fileID: 2896545382248334303, guid: 8f1a03116fa37d24e9d83087d642ade8, type: 3}
+      chance: 39
+    - gameObject: {fileID: 8047277415103914629, guid: 99cfe1ec27b147c46b9b27e01bfef23c, type: 3}
+      chance: 0
+    maxActiveObjects: 3
+    TimeRange: {x: 1, y: 4}
+--- !u!114 &-5422862291937018790
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects: []
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &-5255362991684384394
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects: []
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &-4374657648567875362
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects: []
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &-3173540699515718535
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b80e255fc79397b41bc697a87b23d8ee, type: 3}
+  m_Name: SpawnControlClip(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnControlBehaviour:
+    maxActiveMissiles: 3
+    maxActivePowerups: 2
+    maxActiveStars: 3
+--- !u!114 &-2931105036709222402
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 22
+    - gameObject: {fileID: 9084896660116762878, guid: d817fc9b0e14be74c8dafa66290e3316, type: 3}
+      chance: 78
+    - gameObject: {fileID: 8928692175230465876, guid: ed70a3e33186d494c8ac26a1a298bb56, type: 3}
+      chance: 0
+    - gameObject: {fileID: 2896545382248334303, guid: 8f1a03116fa37d24e9d83087d642ade8, type: 3}
+      chance: 74
+    - gameObject: {fileID: 8047277415103914629, guid: 99cfe1ec27b147c46b9b27e01bfef23c, type: 3}
+      chance: 0
+    maxActiveObjects: 3
+    TimeRange: {x: 1, y: 4}
+--- !u!114 &-2598542731057873902
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c5fe94e1430d4a48ac21e38a613b298, type: 3}
+  m_Name: Powerups
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 7521658866920023669}
+    m_Duration: 554.3333333333334
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -2598542731057873902}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SpawnContainerClip
+  - m_Version: 1
+    m_Start: 554.3333333333334
+    m_ClipIn: 0
+    m_Asset: {fileID: -8659556775832161878}
+    m_Duration: 1396.9499999999998
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -2598542731057873902}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SpawnContainerClip
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-2036939707137387396
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c5fe94e1430d4a48ac21e38a613b298, type: 3}
+  m_Name: Stars
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 8592747795248036832}
+    m_Duration: 1951.2833333333333
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -2036939707137387396}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SpawnContainerClip
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-1520642945731704253
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects: []
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &-1066398638010620664
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b80e255fc79397b41bc697a87b23d8ee, type: 3}
+  m_Name: SpawnControlClip(Clone)
+  m_EditorClassIdentifier: 
+  spawnControlBehaviour:
+    maxActiveMissiles: 50
+    maxActivePowerups: 0
+    maxActiveStars: 0
+--- !u!114 &-26667366631386072
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects: []
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+  m_Name: Medium Difficulty Spawn
+  m_EditorClassIdentifier: 
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 2720240765627035171}
+  - {fileID: -2598542731057873902}
+  - {fileID: -2036939707137387396}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 0}
+--- !u!114 &651083836883449220
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects: []
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &859665588212002103
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 0
+    - gameObject: {fileID: 3105841431665740834, guid: bef8946a559195e42b302be0583fdb30, type: 3}
+      chance: 20
+    - gameObject: {fileID: 2851446485835237533, guid: 0aa023b681546b54ca0a49894691baec, type: 3}
+      chance: 80
+    maxActiveObjects: 3
+    TimeRange: {x: 8, y: 16}
+--- !u!114 &2482850432047564134
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 0}
+      chance: 0
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &2720240765627035171
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c5fe94e1430d4a48ac21e38a613b298, type: 3}
+  m_Name: Missiles
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -9217584346343651177}
+    m_Duration: 297.95
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 2720240765627035171}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SpawnContainerClip
+  - m_Version: 1
+    m_Start: 459.8833333333333
+    m_ClipIn: 0
+    m_Asset: {fileID: 8515213111002931764}
+    m_Duration: 321.26666666666665
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 2720240765627035171}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SpawnContainerClip
+  - m_Version: 1
+    m_Start: 781.15
+    m_ClipIn: 0
+    m_Asset: {fileID: 6568563278927012547}
+    m_Duration: 234.60000000000002
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 2720240765627035171}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SpawnContainerClip
+  - m_Version: 1
+    m_Start: 1327.5666666666666
+    m_ClipIn: 0
+    m_Asset: {fileID: -2931105036709222402}
+    m_Duration: 623.7166666666667
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 2720240765627035171}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SpawnContainerClip
+  - m_Version: 1
+    m_Start: 1015.75
+    m_ClipIn: 0
+    m_Asset: {fileID: -5535549540697802102}
+    m_Duration: 311.8166666666667
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 2720240765627035171}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SpawnContainerClip
+  - m_Version: 1
+    m_Start: 297.95
+    m_ClipIn: 0
+    m_Asset: {fileID: -7741843035247714969}
+    m_Duration: 161.93333333333334
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 2720240765627035171}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SpawnContainerClip
+  m_Markers:
+    m_Objects: []
+--- !u!114 &2820958882662038377
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 0
+    - gameObject: {fileID: 3105841431665740834, guid: bef8946a559195e42b302be0583fdb30, type: 3}
+      chance: 35
+    - gameObject: {fileID: 2851446485835237533, guid: 0aa023b681546b54ca0a49894691baec, type: 3}
+      chance: 65
+    maxActiveObjects: 3
+    TimeRange: {x: 8, y: 16}
+--- !u!114 &3031106502602583937
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 0}
+      chance: 0
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &3636842429332343819
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b80e255fc79397b41bc697a87b23d8ee, type: 3}
+  m_Name: SpawnControlClip
+  m_EditorClassIdentifier: 
+  spawnControlBehaviour:
+    maxActiveMissiles: 1
+    maxActivePowerups: 0
+    maxActiveStars: 1
+--- !u!114 &3741727083908783657
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 4853375499672253821, guid: cecd85947c83bae44a659648e5fd8927, type: 3}
+      chance: 50
+    - gameObject: {fileID: 8648905410912876425, guid: 86ef9de77464dc9419bb81db84800ce0, type: 3}
+      chance: 50
+    maxActiveObjects: 1
+    TimeRange: {x: 8, y: 20}
+--- !u!114 &4765981549333533971
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 0}
+      chance: 0
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &5302180449966802796
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 0}
+      chance: 0
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &5650033157104005919
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects: []
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}
+--- !u!114 &6568563278927012547
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 0
+    - gameObject: {fileID: 9084896660116762878, guid: d817fc9b0e14be74c8dafa66290e3316, type: 3}
+      chance: 0
+    - gameObject: {fileID: 8928692175230465876, guid: ed70a3e33186d494c8ac26a1a298bb56, type: 3}
+      chance: 100
+    - gameObject: {fileID: 2896545382248334303, guid: 8f1a03116fa37d24e9d83087d642ade8, type: 3}
+      chance: 0
+    - gameObject: {fileID: 8047277415103914629, guid: 99cfe1ec27b147c46b9b27e01bfef23c, type: 3}
+      chance: 0
+    maxActiveObjects: 10
+    TimeRange: {x: 0.2, y: 1.5}
+--- !u!114 &6648913448858995298
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b80e255fc79397b41bc697a87b23d8ee, type: 3}
+  m_Name: SpawnControlClip
+  m_EditorClassIdentifier: 
+  spawnControlBehaviour:
+    maxActiveMissiles: 50
+    maxActivePowerups: 0
+    maxActiveStars: 0
+--- !u!114 &7504951632224186861
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b80e255fc79397b41bc697a87b23d8ee, type: 3}
+  m_Name: SpawnControlClip(Clone)
+  m_EditorClassIdentifier: 
+  spawnControlBehaviour:
+    maxActiveMissiles: 2
+    maxActivePowerups: 1
+    maxActiveStars: 2
+--- !u!114 &7521658866920023669
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 8648905410912876425, guid: dc5677875d4dd1e4db4021160460729f, type: 3}
+      chance: 100
+    - gameObject: {fileID: 8648905410912876425, guid: 86ef9de77464dc9419bb81db84800ce0, type: 3}
+      chance: 0
+    - gameObject: {fileID: 4853375499672253821, guid: cecd85947c83bae44a659648e5fd8927, type: 3}
+      chance: 0
+    maxActiveObjects: 1
+    TimeRange: {x: 4, y: 10}
+--- !u!114 &8104684307968332647
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b80e255fc79397b41bc697a87b23d8ee, type: 3}
+  m_Name: SpawnControlClip(Clone)(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnControlBehaviour:
+    maxActiveMissiles: 4
+    maxActivePowerups: 0
+    maxActiveStars: 4
+--- !u!114 &8515213111002931764
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 6130823432024711246, guid: 003cc51f2d281e34daa00fc79ae22bb8, type: 3}
+      chance: 45
+    - gameObject: {fileID: 9084896660116762878, guid: d817fc9b0e14be74c8dafa66290e3316, type: 3}
+      chance: 100
+    - gameObject: {fileID: 8928692175230465876, guid: ed70a3e33186d494c8ac26a1a298bb56, type: 3}
+      chance: 0
+    - gameObject: {fileID: 2896545382248334303, guid: 8f1a03116fa37d24e9d83087d642ade8, type: 3}
+      chance: 0
+    - gameObject: {fileID: 8047277415103914629, guid: 99cfe1ec27b147c46b9b27e01bfef23c, type: 3}
+      chance: 0
+    maxActiveObjects: 2
+    TimeRange: {x: 1, y: 4}
+--- !u!114 &8592747795248036832
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects:
+    - gameObject: {fileID: 724377231157558717, guid: da29c895720c9014fb00f75609eef33e, type: 3}
+      chance: 100
+    maxActiveObjects: 2
+    TimeRange: {x: 5, y: 15}
+--- !u!114 &8720204919742784598
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa03d36640268be45bb9d7a3cbfa5368, type: 3}
+  m_Name: SpawnContainerClip(Clone)(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  spawnContainerBehaviour:
+    spawnObjects: []
+    maxActiveObjects: 0
+    TimeRange: {x: 0, y: 0}

@@ -1,0 +1,644 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/Dev/Projects/UnityFx.Async/src/DocFx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "XYcY86a8acwR99/GhrqUSQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/System.Runtime.CompilerServices.AsyncMethodBuilderAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/System.Runtime.CompilerServices.AsyncMethodBuilderAttribute.html",
+          "hash": "rkmHWMa3Eny4zXJa2tlMXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/System.Runtime.CompilerServices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/System.Runtime.CompilerServices.html",
+          "hash": "JTyfKMhSVHDSCnL7T29MUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.AsyncCallbackOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.AsyncCallbackOptions.html",
+          "hash": "7ellvdlTANR3K51vr2OMVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.AsyncCompletionSource-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.AsyncCompletionSource-1.html",
+          "hash": "CTFq1jW1cAzoxSkCXPTLfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.AsyncCompletionSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.AsyncCompletionSource.html",
+          "hash": "GwcYO8pNX6Bbuu7qkUGl7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.AsyncContinuationOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.AsyncContinuationOptions.html",
+          "hash": "Phyk6PAX1h+c2b4cBhO2QQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.AsyncCreationOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.AsyncCreationOptions.html",
+          "hash": "Uuwd9LGtjO9cjiAVIA1uHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.AsyncExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.AsyncExtensions.html",
+          "hash": "Xb5Rb/GMBY6zhh/MYXcBuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.AsyncOperationStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.AsyncOperationStatus.html",
+          "hash": "WzZt0sKJsaXVybvzcDIAFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.AsyncResult-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.AsyncResult-1.html",
+          "hash": "n9Pys/CIjnD8sG43EV+aKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.AsyncResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.AsyncResult.html",
+          "hash": "IfK776Crtgpo2L3bHf60pg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.AsyncUpdateSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.AsyncUpdateSource.html",
+          "hash": "gPRqqT/FVTgcodH6LcaD/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncAwaitable-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncAwaitable-1.html",
+          "hash": "QyWQwIYIK7UiLXuq2AI0MA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncAwaitable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncAwaitable.html",
+          "hash": "TNjG/2Fuwr6bcgAWshUsIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncAwaiter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncAwaiter-1.html",
+          "hash": "8dr2cwY5Hew8M2q4dmQwsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncAwaiter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncAwaiter.html",
+          "hash": "42zRUmvSceTxBwBLgJKQNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncResultMethodBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncResultMethodBuilder-1.html",
+          "hash": "2ji0SpyXRbH3fRWRP10rFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncResultMethodBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.AsyncResultMethodBuilder.html",
+          "hash": "KFd3mFkR4VzSsvovVw7EkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.CompilerServices.html",
+          "hash": "BAzmJkUhaxJjDWO1H1htOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.IAsyncResultExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.IAsyncResultExtensions.html",
+          "hash": "6GBlJPwwWzdp2YQsDraxfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.IObservableExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.IObservableExtensions.html",
+          "hash": "/RnhPSTZJ+i3j0ryxC+MJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.SocketExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.SocketExtensions.html",
+          "hash": "Iwp7iuXI2NllMIxlQ4RH8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.StreamExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.StreamExtensions.html",
+          "hash": "HW8MITqOEAkpQufwg00S7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.SynchronizationContextExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.SynchronizationContextExtensions.html",
+          "hash": "hFiWXGCji2p3yTmVOarjqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.TaskExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.TaskExtensions.html",
+          "hash": "KK9fTKuPS/Oa3H8Tyrz2fQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.WebRequestExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.WebRequestExtensions.html",
+          "hash": "6afXpwYPn9deUHOdT5QCRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Extensions.html",
+          "hash": "uiCbsAJ48hcWgBrafTOayg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncCancellable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncCancellable.html",
+          "hash": "8dszsMZSCSHjWwWrzXTK3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncCompletionSource-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncCompletionSource-1.html",
+          "hash": "jc6LRVF2Fm/L8UeNw75P0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncCompletionSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncCompletionSource.html",
+          "hash": "1ivKZIT48HBGw1QjPpvtmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncContinuation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncContinuation.html",
+          "hash": "bhwRPGBVahEWnHIoj+r5Bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncOperation-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncOperation-1.html",
+          "hash": "gyH47n1qh6ITQfm+8bMkRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncOperation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncOperation.html",
+          "hash": "DfY4ZeWjbJAgl3kO0DjUEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncOperationCallbacks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncOperationCallbacks.html",
+          "hash": "j4Qs/9Azl/+GpT/Lw3Us4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncUpdatable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncUpdatable.html",
+          "hash": "hKPLOrBPNWNGkpdSdHFD4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncUpdateSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.IAsyncUpdateSource.html",
+          "hash": "oig3k0dKt8LSnTyg1PgPiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Promises.ExceptionEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Promises.ExceptionEventArgs.html",
+          "hash": "BSZvmvE0+qUxSR3PsSwiAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Promises.Promise.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Promises.Promise.html",
+          "hash": "9oAWLOLAf1traFtw1wpkUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Promises.PromiseExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Promises.PromiseExtensions.html",
+          "hash": "NsR5BlL3cdd/7aONgn7TUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.Promises.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.Promises.html",
+          "hash": "daGp2HkUgzWQEc10Aq+Naw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/netstandard2.0/UnityFx.Async.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/netstandard2.0/UnityFx.Async.html",
+          "hash": "8YT1ZoUsV91gIsLEjkEFXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "SoCzMALbpS7aB099BaQynQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/docs.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/docs.html",
+          "hash": "vADrObrdFGrvNu0Q1G5waQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/getting_started.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/getting_started.html",
+          "hash": "Lo94bGxS7OlPDbZnqkHgnA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "thsS9biqBi22u8EDHPuy2A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/support.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/support.html",
+          "hash": "3IpNKvfctXpe6Tenh2yEOA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "Q35MKLvp4tQZvi7RFlZmbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "LyNuW+5p2Iu/H7kphvjkIw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "hrKzHHyE+YIxYb/kx2ZvUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
